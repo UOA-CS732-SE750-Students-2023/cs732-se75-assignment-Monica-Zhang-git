@@ -10,15 +10,24 @@ Using AWS to fetch data provides an added layer of security for the OpenAI API K
 
 1. If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/) (Node.js version >= 14.6.0 required)
 
-2. Clone this [repository](https://github.com/Monica-Zhang-git/Gift-React_Native-App.git)
+2. Clone this repository
 
-3. Install the requirements
+   ```bash
+   $ git clone https://github.com/UOA-CS732-SE750-Students-2023/cs732-se75-assignment-Monica-Zhang-git.git
+   ```
+3. Open the file
+
+   ```bash
+   $ cd cs732-se75-assignment-Monica-Zhang-git 
+   ```
+
+4. Install the requirements
 
    ```bash
    $ npm install
    ```
 
-4. Run the app
+5. Run the app
 
    ```bash
    $ npm start
@@ -31,7 +40,6 @@ You should now be able to access the app through a Expo Go App.
 2. Choose a device in the terminal according your needs.
 
    ```bash
-   › Press a │ open Android
    › Press i │ open iOS simulator
    › Press w │ open web
    ```
