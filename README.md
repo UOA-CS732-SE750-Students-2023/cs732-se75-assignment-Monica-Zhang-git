@@ -10,7 +10,7 @@ Using AWS to fetch data provides an added layer of security for the OpenAI API K
 
 1. If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/) (Node.js version >= 14.6.0 required)
 
-2. Clone this repository
+2. Open a new terminal and clone this repository
 
    ```bash
    $ git clone https://github.com/UOA-CS732-SE750-Students-2023/cs732-se75-assignment-Monica-Zhang-git.git
