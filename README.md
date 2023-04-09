@@ -6,6 +6,14 @@ Users can input the characteristics of the person they want to send a gift to an
 
 Using AWS to fetch data provides an added layer of security for the OpenAI API Key and makes it more convenient for users to get gift recommendations.
 
+## Author
+
+Name: Monica Zhang
+
+UPI: yzhb603
+
+Student ID: 776742548
+
 ## How to Install and Run the App
 
 1. If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/) (Node.js version >= 14.6.0 required)
